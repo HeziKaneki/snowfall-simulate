@@ -1,0 +1,5 @@
+{
+  "name": "FrostFrame - Physics Snow Sim",
+  "description": "High-fidelity snow simulation using Three.js and Cannon.js featuring wind physics, accumulation logic, and optimized instanced rendering.",
+  "requestFramePermissions": []
+}
